@@ -1,0 +1,162 @@
+body{
+	font-family: 'Kumbh Sans';
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-top: 35px;
+	margin-right: 150px;
+	border-bottom: 1px solid grey;
+	padding-bottom: 25px;
+}
+
+p{
+	line-height: 25px; 
+	
+}
+
+.head1{
+	display: flex;
+	flex-direction: row;
+}
+
+.head2{
+	display: flex;
+	flex-direction: row;
+}
+
+.logo{
+	width: 130px;
+	height: 19px;
+	margin-top: 15px;
+}
+
+ul{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	
+}
+
+li{
+	list-style: none;
+	padding-left: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: grey;
+	padding-left: 10px;
+	font-size: 17px;
+}
+
+p{
+	color: grey;
+}
+
+.avatar{
+	width: 60px;
+	padding-left: 50px;
+	margin-top: 5px;
+}
+
+.symbol{
+	width: 30px;
+	height: 30px;
+	margin-top: 17px;
+}
+
+.b1{
+	margin-top: 80px;
+	margin-left: 200px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.shoe1{
+	width: 470px;
+	border-radius: 10px;
+	height: 420px;
+}
+
+.s2{
+	padding-left: 120px;
+	margin-right: 230px;
+}
+
+h4{
+	color: orange;
+	padding-top: 30px;
+	letter-spacing: 3px;
+}
+
+.btn1{
+	margin-left: 15px;
+	background-color: hsl(25, 100%, 94%);
+	border-style: none;
+	border-radius: 5px;
+	padding: 5px 8px;
+	color: hsl(26, 100%, 55%);
+	font-weight: bolder;
+}
+
+.b2{
+	margin-top: 30px;
+	margin-left: 200px;
+}
+
+.si{
+	width: 104px;
+	margin-right: 15px;
+	border-radius: 10px;
+}
+
+button{
+	padding: 14px;
+	border-style: none;
+	background-color: hsl(223, 64%, 98%);
+	border-radius: 10px;
+}
+
+button:nth-of-type(2) {
+    margin-left: -18px;
+	margin-right: -18px;
+}
+
+.btn3{
+	padding-left: 50px;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+.btn2{
+	margin-left: 15px;
+	background-color: orange;
+	border-radius: 10px;
+	padding-left: 55px;
+	padding-right: 55px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+}
+.btn2 img {
+    margin-bottom: -5px;
+	padding-right: 10px;
+}
+
+.he1{
+	margin-top: -8px;
+	margin-bottom: 30px;
+}
+
+.he2{
+	margin-top: -15px;
+	margin-bottom: 35px;
+	font-weight: bold;
+	color: hsl(220, 14%, 75%);
+}
